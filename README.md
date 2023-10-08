@@ -3,7 +3,7 @@
 I am passionate about Data Analysis, Statistical Modeling, Machine Learning, and Data Visualization. I'm always eager to explore new insights from data and create meaningful visualizations to communicate findings.
 
 ## My Interests
-
+- Deep Learning: Specializing in Generative Adversarial Networks, Variational Autoencoders, and hybrid models that combine the two.
 - Data Analysis: Exploring and deriving insights from datasets to uncover trends, patterns, and valuable information.
 - Statistical Modeling: Applying statistical techniques to make predictions, understand relationships, and validate hypotheses.
 - Machine Learning: Developing models to learn from data and make predictions or decisions.
